@@ -1,6 +1,5 @@
 # Football Matches - Tasks
 
-Each of the questions/tasks below can be answered using a `SELECT` query. When you find a solution copy it into the code block under the question before pushing your solution to GitHub.
 
 1) Find all the matches from 2017.
 
